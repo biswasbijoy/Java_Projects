@@ -224,7 +224,7 @@ public class InformationForm extends javax.swing.JFrame {
 
         jButton3.setBackground(new java.awt.Color(255, 184, 113));
         jButton3.setForeground(new java.awt.Color(0, 0, 0));
-        jButton3.setText("Show Data");
+        jButton3.setText("Load Data");
         jButton3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jButton3ActionPerformed(evt);
