@@ -1,3 +1,4 @@
 Name,Contact,Email,Room Type,A/C or Non A/C,Number of Room,Date of Reservation,Payment Method,Status
 Bijoy Biswas//01719868313//biswasbijoy414@gmail.com//Luxury//A/C//02//11-jan-2022//Master Card//Paid
-Bijoy Biswas//01719868313//vfbvcbnvbfnn//Double//A/C//123//ewrwqweq//Visa Card//Paid
+Juwel ahmed//+8809611236534//juwel@gmail.com//Single//A/C//01//02-12-2021//Master Card//Paid
+Lukman-un-Naeem//+8809611423564//naeem@gmail.com//Double//A/C//01//02-12-2021//Cash//Paid
